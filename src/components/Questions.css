@@ -1,0 +1,21 @@
+.buttonFormat [type="radio"] {
+    margin-left: 2.75in;
+}
+
+.questionFormat {
+    margin-left: 3in;
+}
+
+.button {
+    margin-left: 3.25in;
+    background-color: Gray;
+    border-color: black;
+    border-width: 3px;
+    color: white;
+    padding: 15px 45px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
